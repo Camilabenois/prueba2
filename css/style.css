@@ -1,0 +1,100 @@
+body{
+		background:#7ed5e2;
+}
+
+.btn-twitter{
+	background: #009fcb;
+
+
+}
+
+.fondo{
+	padding: 100px;
+	border-radius: 10px;
+}
+
+
+.twit{
+	background-color: white;
+	border:  solid 1px steelblue;
+	padding: 10px;
+	margin-top: 80px;
+	height: 80px;
+	overflow: auto;
+	border-radius: 4px;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	color: royalblue;
+	font-size: 13px;
+	font-family: "Trebuchet MS", "Lucida Grande", Tahoma, sans-serif;
+}
+
+.eliminar {
+	margin-top: 50px;
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	float: right;
+	color: red;
+	padding-left: 7px;
+    padding-top: 7px;
+    margin-bottom: 15px;
+    border:  solid 1px steelblue;
+}
+
+
+.glyphicon-heart {
+	float: left;
+
+
+}
+span.fa.fa-twitter{
+	margin-right: 6px;
+	font-size: 18px;
+	margin-left: 6px;
+}
+
+.color{
+color: snow;
+font-weight: bold;
+
+}
+
+.right{
+	padding-top: 50px;
+	padding-right: 100px;
+	padding-left: 100px;
+	border-radius: 10px;
+	float: right;
+}
+.bird{
+position: absolute;
+top: -50px;    
+right: 2px; 
+width: 124px;
+
+}
+.contador{
+	margin-left: 6px;
+	color:  navy;
+	font-family: sans-serif;
+}
+
+.twitter{
+	background-color: white;
+	background-image: url('../images/mono2.jpg');
+	padding:10px;
+	padding-bottom: 50px;
+	border-radius: 4px;
+	margin-bottom: 20px;
+
+
+}
+
+.likeable{
+
+	color: red;
+}
+button{
+	margin-top: 10px;
+}
