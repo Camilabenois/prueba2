@@ -14,7 +14,7 @@ body{
 }
 
 
-.twit{
+.row.twit{
 	background-color: white;
 	border:  solid 1px steelblue;
 	padding: 10px;
@@ -69,7 +69,7 @@ font-weight: bold;
 }
 .bird{
 position: absolute;
-top: -50px;    
+top: -70px;    
 right: 2px; 
 width: 124px;
 
@@ -82,12 +82,13 @@ width: 124px;
 
 .twitter{
 	background-color: white;
-	background-image: url('../images/mono2.jpg');
+	background: url('../images/mono1.png') no-repeat center top scroll;
 	padding:10px;
 	padding-bottom: 50px;
 	border-radius: 4px;
 	margin-bottom: 20px;
-
+	padding-left: 40px;
+	background-size: 100% auto;
 
 }
 
